@@ -2,9 +2,22 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I'm+Mina+Eilya!+👋;Full+Stack+Developer+%26+Designer;Turning+ideas+into+digital+reality&center=true&size=30">
+    <img
+      src="https://readme-typing-svg.herokuapp.com
+      ?font=Fira+Code
+      &weight=600
+      &size=30
+      &pause=1000
+      &color=38BDF8
+      &center=true
+      &vCenter=true
+      &width=600
+      &lines=Hello%2C+I'm+Mina+Eilya!+👋;Full+Stack+Developer+%26+Designer;Turning+ideas+into+digital+reality"
+      alt="Typing SVG"
+    />
   </a>
 </h1>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mina-eilya-7152bb29a/">
@@ -55,10 +68,14 @@
 
 <h3 align="center">Design Suite</h3>
 <p align="center">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-plain.svg">
+  <img title="Adobe Photoshop" height="45"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" />
+  <img title="Adobe Illustrator" height="45"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" />
+  <img title="Adobe InDesign" height="45"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-original.svg" />
 </p>
+
 
 <hr>
 
