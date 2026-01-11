@@ -1,8 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=minaeilya.minaeilya" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+I'm+Mina+👋;I+build+cool+stuff;Code+%26+Design&center=true&size=30&width=600&color=38BDF8&pause=500&repeat=true" alt="Typing SVG">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+I'm+Mina+Eilya+%F0%9F%91%8B;Full-Stack+Developer+%26+Designer;Building+clean+%26+scalable+web+apps&center=true&size=30&width=600&color=38BDF8&pause=1000&repeat=true" 
+    alt="Typing SVG" 
+  />
 </h1>
+
 
 
 
