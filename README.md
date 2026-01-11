@@ -7,9 +7,6 @@
   />
 </h1>
 
-
-
-
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mina-eilya-7152bb29a/">
@@ -31,7 +28,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
   </a>
 </p>
-
 
 <br>
 
@@ -55,24 +51,24 @@
 
 <h3 align="center">Development Stack</h3>
 <p align="center">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
 </p>
 
 <h3 align="center">Design Suite</h3>
 <p align="center">
   <img title="Adobe Photoshop" height="45"
-       src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+       src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
   <img title="Adobe Illustrator" height="45"
-       src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+       src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
   <img title="Adobe InDesign" height="45"
-       src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
+       src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign" />
 </p>
 
 ## 🚀 Skills & Technologies
@@ -118,25 +114,17 @@
   </tr>
 </table>
 
-
-
 <hr>
 
 <h2 align="center">⚡ GitHub Insights</h2>
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img width="80%" src="https://streak-stats.demolab.com/?user=minaeilya&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="30%" src="https://streak-stats.demolab.com/?user=minaeilya&theme=react&hide_border=true" alt="GitHub Streak Stats" />
 
   <!-- GitHub Stats -->
-  
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=minaeilya&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 
   <!-- GitHub Activity Graph -->
- 
-</p>
->
-
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=minaeilya&theme=react-dark&hide_border=true">
+  <img width="30%" src="https://github-readme-activity-graph.vercel.app/graph?username=minaeilya&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
