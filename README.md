@@ -75,6 +75,49 @@
        src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
 </p>
 
+## 🚀 Skills & Technologies
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend Development</h3>
+      <div align="center">  
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend & DB</h3>
+      <div align="center">  
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Graphic Design</h3>
+      <div align="center">  
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+        <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white" alt="InDesign" />
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="3">
+      <h3 align="center">Programming Languages</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 
 <hr>
