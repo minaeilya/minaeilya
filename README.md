@@ -110,7 +110,7 @@
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img width="80%" src="https://streak-stats.demolab.com/?user=minaeilya&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="55%" src="https://streak-stats.demolab.com/?user=minaeilya&theme=react&hide_border=true" alt="GitHub Streak Stats" />
 
 
   <!-- GitHub Activity Graph -->
