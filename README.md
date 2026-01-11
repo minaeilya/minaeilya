@@ -1,22 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=minaeilya.minaeilya" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com
-      ?font=Fira+Code
-      &weight=600
-      &size=30
-      &pause=1000
-      &color=38BDF8
-      &center=true
-      &vCenter=true
-      &width=600
-      &lines=Hello%2C+I'm+Mina+Eilya!+👋;Full+Stack+Developer+%26+Designer;Turning+ideas+into+digital+reality"
-      alt="Typing SVG"
-    />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+I'm+Mina+👋;I+build+cool+stuff;Code+%26+Design&center=true&size=30&width=600&color=38BDF8&pause=500&repeat=true" alt="Typing SVG">
 </h1>
+
 
 
 <p align="center">
@@ -69,12 +56,13 @@
 <h3 align="center">Design Suite</h3>
 <p align="center">
   <img title="Adobe Photoshop" height="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" />
+       src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img title="Adobe Illustrator" height="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" />
+       src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
   <img title="Adobe InDesign" height="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-original.svg" />
+       src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
 </p>
+
 
 
 <hr>
