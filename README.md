@@ -74,9 +74,10 @@
 <h2 align="center">⚡ GitHub Insights</h2>
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=minaeilya&theme=react&hide_border=true">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=minaeilya&show_icons=true&theme=react&hide_border=true">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=minaeilya&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=minaeilya&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
+
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=minaeilya&theme=react-dark&hide_border=true">
