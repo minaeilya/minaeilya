@@ -61,16 +61,6 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
 </p>
 
-<h3 align="center">Design Suite</h3>
-<p align="center">
-  <img title="Adobe Photoshop" height="45"
-       src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img title="Adobe Illustrator" height="45"
-       src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-  <img title="Adobe InDesign" height="45"
-       src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign" />
-</p>
-
 ## 🚀 Skills & Technologies
 
 <table>
@@ -120,11 +110,9 @@
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img width="30%" src="https://streak-stats.demolab.com/?user=minaeilya&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="80%" src="https://streak-stats.demolab.com/?user=minaeilya&theme=react&hide_border=true" alt="GitHub Streak Stats" />
 
-  <!-- GitHub Stats -->
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=minaeilya&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 
   <!-- GitHub Activity Graph -->
-  <img width="30%" src="https://github-readme-activity-graph.vercel.app/graph?username=minaeilya&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=minaeilya&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
